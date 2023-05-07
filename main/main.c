@@ -6,7 +6,7 @@ void app_main(void)
 {
 	bool vrai=true;
     while (vrai) {
-        printf("Hello from app_main!\n");
-        sleep(1);
+        printf("bonjour depuis app_main!\n");
+        sleep(2);
     }
 }
